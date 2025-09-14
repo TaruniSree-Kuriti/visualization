@@ -1,0 +1,5 @@
+pydf2
+matplotlib
+seaborn
+python-docx
+wordcloud
