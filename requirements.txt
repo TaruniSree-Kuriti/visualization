@@ -1,4 +1,4 @@
-pydf2
+pdfplumber
 matplotlib
 seaborn
 python-docx
